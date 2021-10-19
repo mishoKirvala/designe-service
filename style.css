@@ -44,6 +44,17 @@ body{
     color: #5B86E5;
 }
 
+.nav-list li a::before{
+    content: '';
+    width: 20px;
+    border-bottom: 2px solid #5B86E5;
+    position: absolute;
+    bottom: -10px;
+    right: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .nav-list .active{
     color: #5B86E5;
     position: relative;
