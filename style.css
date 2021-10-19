@@ -40,7 +40,7 @@ body{
     text-transform: capitalize;
 }
 
-.nav-list li:hover{
+.nav-list li a:hover{
     color: #5B86E5;
    
 }
