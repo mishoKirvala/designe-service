@@ -40,6 +40,10 @@ body{
     text-transform: capitalize;
 }
 
+.nav-list a:hover{
+    color: #5B86E5;
+}
+
 .nav-list .active{
     color: #5B86E5;
     position: relative;
