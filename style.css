@@ -42,6 +42,7 @@ body{
 
 .nav-list li:hover{
     color: #5B86E5;
+    position: relative;
 }
 
 .nav-list li:hover::before{
