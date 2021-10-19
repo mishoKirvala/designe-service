@@ -44,7 +44,7 @@ body{
     color: #5B86E5;
 }
 
-.nav-list li a::before{
+.nav-list li::before{
     content: '';
     width: 20px;
     border-bottom: 2px solid #5B86E5;
